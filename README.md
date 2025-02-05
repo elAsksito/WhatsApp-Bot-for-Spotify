@@ -63,7 +63,7 @@ This project allows you to add songs to a Spotify playlist via WhatsApp. Users c
 
 ## Usage
 
-1. Send a link to a Spotify song (e.g., `https://open.spotify.com/track/<track_id>`) to the WhatsApp bot number.
+1. Send a link to a Spotify song (e.g., `https://open.spotify.com/track/3NRDLYyqIXja0UElvdzjkB?si=0dt65IoWQzaBFmGK3pWhFA `) to the WhatsApp bot number.
 2. If the song is not in the Spotify playlist, it will be added automatically.
 3. If the song is already in the playlist, the bot will notify you that it was not added.
 4. If the message does not contain a valid Spotify link, the bot will prompt you to send a valid link.
@@ -165,7 +165,7 @@ Este proyecto permite agregar canciones a una lista de reproducción de Spotify 
 
 ## Uso
 
-1. Envía un enlace de una canción de Spotify (por ejemplo, `https://open.spotify.com/track/<track_id>`) al número de WhatsApp del bot.
+1. Envía un enlace de una canción de Spotify (por ejemplo, `https://open.spotify.com/track/3NRDLYyqIXja0UElvdzjkB?si=0dt65IoWQzaBFmGK3pWhFA `) al número de WhatsApp del bot.
 2. Si la canción no está en la lista de reproducción de Spotify, se agregará automáticamente.
 3. Si la canción ya está en la lista, el bot te notificará que no se agregó.
 4. Si el mensaje no contiene un enlace de Spotify válido, el bot te pedirá que envíes un enlace válido.
